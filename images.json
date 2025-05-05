@@ -1,0 +1,112 @@
+[
+  {
+    "src": "/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+    "data": "",
+    "alt": "Wikipedia",
+    "desc": "Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages",
+    "score": 3,
+    "type": "image",
+    "group_id": 1,
+    "format": null,
+    "width": null
+  },
+  {
+    "src": "/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+    "data": "",
+    "alt": "The Free Encyclopedia",
+    "desc": "Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages",
+    "score": 3,
+    "type": "image",
+    "group_id": 2,
+    "format": null,
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Game_Developers_Choice_Awards_2024_-_Yoko_Shimomura_-_03_%28cropped%29.jpg/250px-Game_Developers_Choice_Awards_2024_-_Yoko_Shimomura_-_03_%28cropped%29.jpg",
+    "data": "",
+    "alt": "Yoko Shimomura",
+    "desc": "Yoko Shimomura",
+    "score": 5,
+    "type": "image",
+    "group_id": 3,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9b/2013_Barbara_Frischmuth_%289161049774%29_cropped.jpg/250px-2013_Barbara_Frischmuth_%289161049774%29_cropped.jpg",
+    "data": "",
+    "alt": "Barbara Frischmuth",
+    "desc": "Barbara Frischmuth",
+    "score": 6,
+    "type": "image",
+    "group_id": 4,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9b/2013_Barbara_Frischmuth_%289161049774%29_cropped.jpg/258px-2013_Barbara_Frischmuth_%289161049774%29_cropped.jpg",
+    "data": "",
+    "alt": "Barbara Frischmuth",
+    "desc": "Barbara Frischmuth",
+    "score": 6,
+    "type": "image",
+    "group_id": 4,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Lawrence_Wong_20230526.jpg/250px-Lawrence_Wong_20230526.jpg",
+    "data": "",
+    "alt": "Lawrence Wong in 2023",
+    "desc": "Lawrence Wong",
+    "score": 5,
+    "type": "image",
+    "group_id": 5,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carnegie-hall-isaac-stern.jpg/250px-Carnegie-hall-isaac-stern.jpg",
+    "data": "",
+    "alt": "Isaac Stern Auditorium, Carnegie Hall",
+    "desc": "Isaac Stern Auditorium, Carnegie Hall",
+    "score": 6,
+    "type": "image",
+    "group_id": 6,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carnegie-hall-isaac-stern.jpg/330px-Carnegie-hall-isaac-stern.jpg",
+    "data": "",
+    "alt": "Isaac Stern Auditorium, Carnegie Hall",
+    "desc": "Isaac Stern Auditorium, Carnegie Hall",
+    "score": 6,
+    "type": "image",
+    "group_id": 6,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/US-%245-SC-1953-Fr.1655.jpg/500px-US-%245-SC-1953-Fr.1655.jpg",
+    "data": "",
+    "alt": "Obverse and reverse of a 1953 five-dollar silver certificate",
+    "desc": "Silver certificates are a type of representative money issued between 1878 and 1964 in the United States as part of its circulation of paper currency . They were produced in response to silver agitation by citizens who were angered by the Coinage Act of 1873 , which had effectively placed the United States on a gold standard . Since 1968 they have been redeemable only in Federal Reserve Notes and are thus obsolete, but they remain legal tender at their face value and hence are still an accepted form of currency. This five-dollar bill , a 1953 silver certificate bearing the first serial number of a printing of 339,600,000 banknotes, is part of the National Numismatic Collection at the Smithsonian Institution 's National Museum of American History . It features a portrait of President Abraham Lincoln on the obverse and the facade of the Lincoln Memorial in Washington, D.C., on the reverse. Banknote design credit: Bureau of Engraving and Printing ; photographed by Andrew Shiva Recently featured: Greensburg tornado Eastern grey kangaroo Raising a Flag over the Reichstag Archive More featured pictures",
+    "score": 6,
+    "type": "image",
+    "group_id": 7,
+    "format": "jpg",
+    "width": null
+  },
+  {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/US-%245-SC-1953-Fr.1655.jpg/960px-US-%245-SC-1953-Fr.1655.jpg",
+    "data": "",
+    "alt": "Obverse and reverse of a 1953 five-dollar silver certificate",
+    "desc": "Silver certificates are a type of representative money issued between 1878 and 1964 in the United States as part of its circulation of paper currency . They were produced in response to silver agitation by citizens who were angered by the Coinage Act of 1873 , which had effectively placed the United States on a gold standard . Since 1968 they have been redeemable only in Federal Reserve Notes and are thus obsolete, but they remain legal tender at their face value and hence are still an accepted form of currency. This five-dollar bill , a 1953 silver certificate bearing the first serial number of a printing of 339,600,000 banknotes, is part of the National Numismatic Collection at the Smithsonian Institution 's National Museum of American History . It features a portrait of President Abraham Lincoln on the obverse and the facade of the Lincoln Memorial in Washington, D.C., on the reverse. Banknote design credit: Bureau of Engraving and Printing ; photographed by Andrew Shiva Recently featured: Greensburg tornado Eastern grey kangaroo Raising a Flag over the Reichstag Archive More featured pictures",
+    "score": 6,
+    "type": "image",
+    "group_id": 7,
+    "format": "jpg",
+    "width": null
+  }
+]
