@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Evolving OpenAI's Structure",
+        "url": "https://openai.com/index/evolving-our-structure/",
+        "comment": 316,
+        "error": false
+    },
+    {
+        "title": "Possibly a Serious Possibility",
+        "url": "https://kucharski.substack.com/p/possibly-a-serious-possibility",
+        "comment": 22,
+        "error": false
+    },
+    {
+        "title": "Show HN: Real-time AI Voice Chat at ~500ms Latency",
+        "url": "https://github.com/KoljaB/RealtimeVoiceChat",
+        "comment": 32,
+        "error": false
+    },
+    {
+        "title": "Replacing Kubernetes with Systemd",
+        "url": "https://blog.yaakov.online/replacing-kubernetes-with-systemd/",
+        "comment": 6,
+        "error": false
+    },
+    {
+        "title": "Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL",
+        "url": "https://textquery.app/",
+        "comment": 34,
+        "error": false
+    },
+    {
+        "title": "Show HN: VectorVFS, your filesystem as a vector database",
+        "url": "https://vectorvfs.readthedocs.io/en/latest/",
+        "comment": 86,
+        "error": false
+    },
+    {
+        "title": "Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python",
+        "url": "https://github.com/leontrolski/tkintergalactic",
+        "comment": 5,
+        "error": false
+    },
+    {
+        "title": "How are cyber criminals rolling in 2025?",
+        "url": "https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html",
+        "comment": 43,
+        "error": false
+    },
+    {
+        "title": "Kate and Python Language Server",
+        "url": "https://akselmo.dev/posts/kate-python-lsp/",
+        "comment": 7,
+        "error": false
+    },
+    {
+        "title": "Dimension 126 Contains Twisted Shapes, Mathematicians Prove",
+        "url": "https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/",
+        "comment": 30,
+        "error": false
+    },
+    {
+        "title": "Technical analysis of the Signal clone used by Trump officials",
+        "url": "https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/",
+        "comment": 221,
+        "error": false
+    },
+    {
+        "title": "Geometrically understanding calculus of inverse functions (2023)",
+        "url": "https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1",
+        "comment": 4,
+        "error": false
+    },
+    {
+        "title": "The vocal effects of Daft Punk",
+        "url": "https://bjango.com/articles/daftpunkvocaleffects/",
+        "comment": 70,
+        "error": false
+    },
+    {
+        "title": "The Death of Daydreaming",
+        "url": "https://www.afterbabel.com/p/on-the-death-of-daydreaming",
+        "comment": 199,
+        "error": false
+    },
+    {
+        "title": "Instant (YC S22) Is Hiring a Founding TypeScript Engineer",
+        "url": "https://www.instantdb.com/hiring/ts-hacker",
+        "comment": 0,
+        "error": false
+    },
+    {
+        "title": "As an experienced LLM user, I don't use generative LLMs often",
+        "url": "https://minimaxir.com/2025/05/llm-use/",
+        "comment": 123,
+        "error": false
+    },
+    {
+        "title": "A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory",
+        "url": "https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html",
+        "comment": 48,
+        "error": false
+    },
+    {
+        "title": "Automatically add missing \"async/await\" keywords to your TypeScript code",
+        "url": "https://github.com/stanNthe5/typescript-autoawait",
+        "comment": 2,
+        "error": false
+    },
+    {
+        "title": "History of \"Adventure\" for the Atari 2600",
+        "url": "https://www.atariarchive.org/blog/adventure-march-1980/",
+        "comment": 13,
+        "error": false
+    },
+    {
+        "title": "Show HN: Klavis AI – Open-source MCP integration for AI applications",
+        "url": "https://github.com/Klavis-AI/klavis",
+        "comment": 44,
+        "error": false
+    },
+    {
+        "title": "Show HN: Bracket – selfhosted tournament system",
+        "url": "https://github.com/evroon/bracket",
+        "comment": 25,
+        "error": false
+    },
+    {
+        "title": "AWS Built a Security Tool. It Introduced a Security Risk",
+        "url": "https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk",
+        "comment": 69,
+        "error": false
+    },
+    {
+        "title": "Tuning Timbre Spectrum Scale",
+        "url": "https://sethares.engr.wisc.edu/ttss.html",
+        "comment": 1,
+        "error": false
+    },
+    {
+        "title": "The Uncanny Mirror: AI, Self-Doubt, and the Limits of Reflection",
+        "url": "https://www.lucidnonsense.net/p/the-uncanny-mirror",
+        "comment": 5,
+        "error": false
+    },
+    {
+        "title": "Show HN: Journelly for iOS: like tweeting but for your eyes only (in plain text)",
+        "url": "https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only",
+        "comment": 25,
+        "error": false
+    },
+    {
+        "title": "The Beauty of Having a Pi-Hole (2024)",
+        "url": "https://den.dev/blog/pihole/",
+        "comment": 103,
+        "error": false
+    },
+    {
+        "title": "Databricks in Talks to Acquire Startup Neon for About $1B",
+        "url": "https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon",
+        "comment": 4,
+        "error": false
+    },
+    {
+        "title": "AI Meets WinDBG",
+        "url": "https://svnscha.de/posts/ai-meets-windbg/",
+        "comment": 56,
+        "error": false
+    },
+    {
+        "title": "No Instagram, no privacy",
+        "url": "https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/",
+        "comment": 92,
+        "error": false
+    },
+    {
+        "title": "Emergent Misalignment: Narrow Finetuning Can Produce Broadly Misaligned LLMs",
+        "url": "https://www.emergent-misalignment.com/",
+        "comment": 20,
+        "error": false
+    }
+]

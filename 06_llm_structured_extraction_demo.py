@@ -1,11 +1,11 @@
 import asyncio
 from crawl4ai import *
 from typing import List
-# import os
-# import base64
+import os
 import json
 
 async def main():
+
     print("Structred extraction with LLM: ")
     extraction_strategy = LLMExtractionStrategy(
         llm_config=LLMConfig(
@@ -27,13 +27,15 @@ async def main():
             url="https://news.ycombinator.com/",
             config=config
         )
-
+        destination_path = os.getcwd()
         for result in results:
             print(f'URL = {result.url}')
             print(f'success = {result.success}')
             if result.success:
-                data=json.loads(result.extracted_content)
-                print(json.dumps(data,indent=2))
+                # data=json.loads(result.extracted_content)
+                # print(json.dumps(data,indent=2))
+                with open(f'{destination_path}/structured_data.json', "w") as f:
+                    f.write(result.extracted_content)          
             else:
                 print('failed to extract structed data')
 
