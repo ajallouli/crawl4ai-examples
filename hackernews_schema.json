@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the news article",
+      "cssSelector": ".home-title"
+    },
+    "date": {
+      "type": "string",
+      "description": "The publication date of the article",
+      "cssSelector": ".h-datetime"
+    },
+    "tags": {
+      "type": "string",
+      "description": "The category or tags of the article",
+      "cssSelector": ".h-tags"
+    },
+    "description": {
+      "type": "string",
+      "description": "The summary or description of the article",
+      "cssSelector": ".home-desc"
+    },
+    "image_url": {
+      "type": "string",
+      "description": "The URL of the article's main image",
+      "cssSelector": ".home-img-src",
+      "attribute": "src"
+    },
+    "article_url": {
+      "type": "string",
+      "description": "The URL of the full article",
+      "cssSelector": ".story-link",
+      "attribute": "href"
+    }
+  },
+  "required": [
+    "title",
+    "date",
+    "description",
+    "article_url"
+  ]
+}
